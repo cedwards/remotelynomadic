@@ -1,0 +1,35 @@
+######################## default configuration ####################
+baseURL = "https://remotelynomadic.travel/"
+title = "Remotely Nomadic | Adventures in Van Life"
+theme = "logbook"
+# post pagination
+paginate = "6"
+# post excerpt
+summaryLength = "50"
+# google analytics
+googleAnalytics = "" # Ex: UA-123-45
+# disqus short name
+disqusShortname = "remotelynomadic" # get your shortname form here : https://disqus.com
+# disable language
+disableLanguages = ['fr'] # disable language from here
+
+############################# Outputs ##############################
+[outputs]
+home = ["HTML", "RSS", "JSON", "WebAppManifest"]
+
+[markup]
+[markup.goldmark.renderer]
+unsafe= true
+
+[mediaTypes]
+[mediaTypes."application/manifest+json"]
+suffixes = ["webmanifest"]
+
+[mediaTypes."text/netlify"]
+delimiter = ""
+suffixes = [""]
+
+[outputFormats]
+[outputFormats.WebAppManifest]
+mediaType = "application/manifest+json"
+rel = "manifest"
