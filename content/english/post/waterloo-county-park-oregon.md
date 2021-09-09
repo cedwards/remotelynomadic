@@ -1,21 +1,28 @@
 ---
-title: "One Week in the Pacific Northwest"
-date: 2021-04-11T15:40:24+06:00
+title: "Waterloo County Park"
+date: 2021-04-16T15:40:24+06:00
 # post thumb
 images:
-  - "images/post/one-foot-out-the-door-washington.png"
+  - "images/post/waterloo-county-park.png"
 #author
 author: "Christer Edwards"
 # description
 description: "This is meta description"
 # Taxonomies
-categories: ["Washington", "Oregon", "VanLife", "RoadTrip"]
-tags: ["Portland","Cape","Disappointment","Lake","BattleGround","VanLife","RoadTrip","HoodRiver"]
-type: "regular" # available type (regular or featured)
-draft: true
+categories: ["Oregon","VanLife","RoadTrip"]
+tags: ["Waterloo","Conuty","Park","VanLife","RoadTrip"]
+type: "featured" # available type (regular or featured)
+draft: false
 ---
 
-# Itinerary
+### Waterloo County Park (Oregon)
+#### Trip Details:
+
+| Location                                                              | Weather   | Date(s)           |
+|-----------------------------------------------------------------------|-----------|-------------------|
+| GPS: [44.4921545,-122.8230501](https://goo.gl/maps/nJ76ZAtuDGjABnE37) | 77F / 45F | April 15-16, 2021 |
+
+### Battle Ground Lake State Park
 
  - Battle Ground (2 nights)
  - Hood River (day trip)

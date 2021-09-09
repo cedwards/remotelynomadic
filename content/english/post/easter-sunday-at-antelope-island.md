@@ -15,7 +15,12 @@ type: "featured" # available type (regular or featured)
 draft: false
 ---
 
-## Antelope Island
+### Antelope Island
+#### Trip Details:
+
+| Location                                                            | Weather   | Date(s)         |
+|---------------------------------------------------------------------|-----------|-----------------|
+| GPS: [41.0324057,-112.2301054](https://goo.gl/maps/UcshNBQSLN3gKAGj9) | 79F / 54F | April 04-05, 2021 |
 
 This was the inagural trip in my van to give things a try and see what worked.
 Turned out to be a great trip and a fantastic start to the season!

@@ -10,7 +10,7 @@ author: "Christer Edwards"
 description: "This is meta description"
 # Taxonomies
 categories: ["VanLife", "Utah"]
-tags: ["San Rafael Swell","Utah","VanLife","Flood","Warning","Storm"]
+tags: ["SanRafaelSwell","Utah","VanLife","Flood","Warning","Storm"]
 type: "featured" # available type (regular or featured)
 draft: false
 ---

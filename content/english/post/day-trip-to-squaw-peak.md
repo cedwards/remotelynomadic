@@ -15,7 +15,12 @@ type: "featured" # available type (regular or featured)
 draft: false
 ---
 
-## Squaw Peak
+### Squaw Peak Overlook
+#### Trip Details:
+
+| Location                                                              | Weather     | Date(s)         |
+|-----------------------------------------------------------------------|-------------|-----------------|
+| GPS: [40.3014152,-111.6277609](https://goo.gl/maps/xCirryuZRL1UdpVj7) | 82F / 50F   | April 30, 2021  |
 
 Left early one morning and drove the van up here to Squaw Peak. It's an area
 that overlooks the entire Provo Valley--pretty sure I could see my house from

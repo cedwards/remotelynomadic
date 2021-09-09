@@ -15,7 +15,13 @@ type: "featured" # available type (regular or featured)
 draft: false
 ---
 
-## Tom Best Spring Road
+### Tom's Best Spring Dispersed Camping
+#### Trip Details:
+
+| Location                                                            | Weather   | Date(s)         |
+|---------------------------------------------------------------------|-----------|-----------------|
+| GPS: [37.7279412,-112.25202](https://goo.gl/maps/Pyp1NmV4x4BxjDNBA) | 82F / 46F | May 28-31, 2021 |
+
 
 This turned out to be a great trip. Had a random encounter with my cousin
 Thomas. Plus I spent a few days enjoying the quiet. Managed to get some good
